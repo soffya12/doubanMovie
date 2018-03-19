@@ -1,0 +1,15 @@
+#app , .ant-layout{
+  height: 100%;
+  background-color: #fff;
+}
+
+.header .logo {
+  width: 120px;
+  height: 31px;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, .8);
+  background-image: url(../images/logo.png);
+  background-size: cover;
+  margin: 16px 28px 16px 0;
+  float: left;
+}

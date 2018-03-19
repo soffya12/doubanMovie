@@ -1,0 +1,27 @@
+.movie-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.ant-card {
+  width: 190px;
+  padding: 10px 0;
+  text-align: center;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.ant-card .ant-card-body {
+  padding: 0;
+}
+
+.ant-card img {
+  width: 100px;
+  height: 140px;
+  margin: 0 auto;
+}
+
+.ant-card p {
+  margin: 0;
+}
